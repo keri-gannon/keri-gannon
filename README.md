@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Keri 👋
+
+I'm a full-stack software engineer who enjoys working with Ruby on Rails the most. I've also worked with Angular, CSS, HTML, Python, Next.js, React, SQL, TypeScript, and other tools.
 
 <!--
 **keri-gannon/keri-gannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
