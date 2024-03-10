@@ -1,6 +1,6 @@
 ### Hi there, I'm Keri 👋
 
-I'm a full-stack software engineer who enjoys working with Ruby on Rails the most. I'm ambitious and have many dreams and hopes for my life!
+I'm a full-stack software engineer who enjoys working with Ruby on Rails the most. I'm ambitious and have many dreams and hopes for my life! I went to the University of Illinois at Urbana-Champaign, where I specialized in French and pedagogy. I also took exploratory and required courses in calculus, chemistry, educational psychology, English literature, family and human development, film, history, meteorology, philosophy, psychology. After teaching French for three years, I went to Dev Bootcamp, where I focused on data structures and algorithms in Ruby, SQL queries, database schemas, Ruby on Rails, and JavaScript. Outside of tech, I'm passionate about interior design, real estate, fashion, beauty, meditation, and psychology.
 
 <h1>Skills</h1>
 Active Record, Agile, Apollo, AWS, CSS, Continuous Integration and Continuous Deveopment, Cypress, Data Structures and Algorithms, Database Design, Docker, Django, Enzyme, Express.js, Figma, Git, GraphQL, Heroku, HTML, Hotwire, JavaScript, Jenkins, Jest, JWT Authorization, Next.js, Node.js, PostgreSQL, Prisma, Python, React, React Router, Redux, Responsive Design, RESTful APIs, RSpec, Ruby on Rails, Scrum, SQL, Storybook, Swagger, Tailwind CSS, Token Authorization, Typescript, User Authentication, Vite, Vitest
